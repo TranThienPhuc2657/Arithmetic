@@ -30,3 +30,6 @@ int main() {
     cout << cnt;
     return 0;
 }
+//Y tuong o dau la minj se dung sang
+//voi mot so i thi ta se chay vong lap de cong vo tong cua cac boi cua i
+//Khi lam xong ta chi viec xet xem tong cua cac uoc cua so do co lon hon chinh no hay khong
